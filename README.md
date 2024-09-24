@@ -117,9 +117,6 @@ The sentiment analysis revealed that 75% of the reviews were positive, with clea
 
 For any questions or further information, please contact:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
+- **Name**: [Mohammed Alqarni]
+- **Email**: [M30.alqarni@gmail.com]
 
----
-
-*This project was developed to gain insights into customer satisfaction within the hospitality industry through sentiment analysis of hotel reviews.*
