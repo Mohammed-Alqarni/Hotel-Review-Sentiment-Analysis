@@ -49,8 +49,8 @@ The goal of this project is to analyze hotel reviews to identify customer satisf
 
 - **Model Performance**: The Logistic Regression model achieved an accuracy of approximately 81%, indicating good performance in predicting sentiment from review text.
 - **Common Themes**:
-  - *Positive Reviews*: Words like "clean", "friendly", "comfortable", and "excellent" were prevalent.
-  - *Negative Reviews*: Frequent mentions of "dirty", "noisy", "poor", and "disappointing".
+  - *Positive Reviews*: Words like "clean," "friendly," "comfortable," and "excellent" were prevalent.
+  - *Negative Reviews*: Frequent mentions of "dirty," "noisy," "poor," and "disappointing."
 - **Location Insights**:
   - *Highest Ratings*: California (CA) and New York (NY) had the highest average ratings, suggesting higher customer satisfaction.
   - *Areas for Improvement*: Some provinces showed lower ratings, highlighting regions where service enhancements are needed.
@@ -113,10 +113,14 @@ The sentiment analysis revealed that 75% of the reviews were positive, with clea
   - Machine Learning: scikit-learn
   - Word Cloud Generation: wordcloud
 
+## Medium Blog Link
+
+You can read the detailed blog post about this project on Medium: [Hotel Review Sentiment Analysis: Extracting Insights from Customer Feedback](https://medium.com/@m30.alqarni/hotel-review-sentiment-analysis-extracting-insights-from-customer-feedback-0927d726fbb7)
+
 ## Contact Information
 
 For any questions or further information, please contact:
 
-- **Name**: [Mohammed Alqarni]
-- **Email**: [M30.alqarni@gmail.com]
+- **Name**: Mohammed Alqarni
+- **Email**: M30.alqarni@gmail.com
 
